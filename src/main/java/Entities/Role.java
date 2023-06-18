@@ -1,2 +1,4 @@
-package Entities;public class Role {
+package Entities;
+
+public class Role {
 }
